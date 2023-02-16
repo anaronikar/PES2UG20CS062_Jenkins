@@ -3,9 +3,8 @@
 using namespace std;
 
 int main(void) {
-  cout << "Hello, World\n";
-  cout << "Hello, Jenkins\n";
+  cout << "Hello!\n";
   cout << "PES2UG20CS062\n";
-  cout << "I have successfully built and run!\n";
+  cout << "Jenkins Februrary 2023!\n";
   return 0;
 }
